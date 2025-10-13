@@ -28,16 +28,12 @@ My goal is to keep growing as a full-stack engineer capable of delivering clean,
 **Other Skills**  
 > RESTful API Design · OOP · Git/GitHub · Agile (Scrum)  
 
----
-
 ## 📚 Certifications (In Progress)  
 
 - 🧩 **IBM Data Engineering Professional Certificate – Coursera**  
   _5 of 16 courses completed_  
 - ⚙️ **IBM DevOps and Software Engineering Professional Certificate – Coursera**  
   _4 of 15 courses completed_  
-
----
 
 ## 🚀 Featured Projects  
 
@@ -58,8 +54,6 @@ An **object-oriented Python ecosystem simulator** with a custom scripting langua
 A **cross-platform mobile app** for attendance tracking and report generation using **Expo** and **Gluestack UI**.  
 **Tech:** React Native, Gluestack UI, Reanimated  
 
----
-
 ## 📊 GitHub Insights  
 
 <p align="center">
@@ -67,14 +61,10 @@ A **cross-platform mobile app** for attendance tracking and report generation us
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elote200&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
 </p>
 
----
-
 ## 🌍 Connect With Me  
 
 - 📧 **Email:** [kelvinmelgar777@gmail.com] or [kelvin.melgar13@unitec.edu]  
 - 💼 **LinkedIn:** [linkedin.com/in/kelvin-melgar](https://www.linkedin.com/in/kelvin-melgar/)  
 - 🧠 **GitHub:** [github.com/elote200](https://github.com/elote200)
-
----
 
 ⭐ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
