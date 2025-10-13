@@ -3,8 +3,6 @@
 🎓 **Computer Systems Engineering Student (3rd year, 63% completed) at UNITEC – Universidad Tecnológica Centroamericana**  
 💡 **Software Developer | Technology Enthusiast**
 
----
-
 ## 🧠 About Me  
 
 I’m a passionate **software developer** focused on building reliable, efficient, and scalable systems.  
@@ -12,8 +10,6 @@ I enjoy working on both **frontend and backend**, experimenting with data struct
 
 Currently, I’m pursuing two **IBM Professional Certifications** in **Data Engineering** and **DevOps & Software Engineering** (Coursera).  
 My goal is to keep growing as a full-stack engineer capable of delivering clean, maintainable, and impactful solutions.  
-
----
 
 ## 💻 Tech Stack  
 
