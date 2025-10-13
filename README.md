@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Kelvin Melgar  
 
-🎓 **Computer Systems Engineering Student | Software Developer | Technology Enthusiast**  
+🎓 **Computer Systems Engineering Student (3rd year, 63% completed) at UNITEC – Universidad Tecnológica Centroamericana**  
+💡 **Software Developer | Technology Enthusiast**
 
 ---
 
