@@ -64,7 +64,6 @@ A **cross-platform mobile app** for attendance tracking and report generation us
 ## 🌍 Connect With Me  
 
 - 📧 **Email:** [kelvinmelgar777@gmail.com] or [kelvin.melgar13@unitec.edu]  
-- 💼 **LinkedIn:** [linkedin.com/in/kelvin-melgar](https://www.linkedin.com/in/kelvin-melgar/)  
-- 🧠 **GitHub:** [github.com/elote200](https://github.com/elote200)
+- 💼 **LinkedIn:** [linkedin.com/in/kelvin-melgar](https://www.linkedin.com/in/kelvin-melgar/)
 
 ⭐ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
